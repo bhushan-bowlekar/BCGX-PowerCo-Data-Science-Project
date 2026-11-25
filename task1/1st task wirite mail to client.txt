@@ -1,0 +1,34 @@
+1st task write mail to client so I have writen as 
+
+Dear Sir/Madam,
+
+**PowerCo Team,**
+
+As the main problem the company is facing is customer churn, we need to identify why customers are leaving the company and switching to other energy providers.
+
+We need customer-related data along with details of the services they are using. We also need to compare PowerCo's prices with those of its competitors to test whether price is the major reason for customer churn.
+
+**Data we need:**
+
+1. Customer ID and joining date.
+2. Customer location and contract details.
+3. Services the customer is currently using.
+4. Whether the customer is still using our services or has left (target column).
+5. How much the customer is paying for the services.
+6. Competitors' prices for similar services.
+7. Customer complaints and whether they were resolved on time.
+8. Customer feedback and satisfaction ratings.
+9. Payment history and any late payments.
+10. Reasons provided by customers for leaving the company.
+
+**Once we get this data, we can follow these steps:**
+
+1. **Understand and analyse the data:** Understand the available data and identify relevant columns.
+2. **Data Cleaning:** Handle missing values, duplicates, incorrect data and outliers.
+3. **EDA and Hypothesis Testing:** Identify patterns in customer churn and test whether pricing is a significant factor.
+4. **Feature Engineering:** Create useful features such as customer tenure, price differences, complaint frequency, etc.
+5. **Insights and Recommendations:** Identify the major reasons for churn and provide recommendations to improve customer retention.
+
+This analysis will help us understand whether price is the critical factor behind customer churn or whether other factors, such as customer service, complaints, and energy plans, are also contributing to it.
+
+Best Regards
